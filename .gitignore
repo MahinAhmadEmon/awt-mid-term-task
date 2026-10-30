@@ -12,3 +12,6 @@ coverage/
 
 # Ignore TypeScript build cache
 *.tsbuildinfo
+
+# Ignore uploaded course materials
+**/src/uploads/
