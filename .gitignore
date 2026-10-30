@@ -1,0 +1,11 @@
+# Ignore dependencies for all lab tasks
+node_modules/
+
+# Ignore generated build files
+dist/
+coverage/
+
+# Ignore environment secrets
+.env
+.env.*
+!.env.example
