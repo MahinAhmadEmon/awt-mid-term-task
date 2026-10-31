@@ -15,3 +15,13 @@ coverage/
 
 # Ignore uploaded course materials
 **/src/uploads/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore dependencies
+node_modules/
+
+# Ignore build output
+dist/
